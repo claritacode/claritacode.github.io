@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Internal Links</title>
  <style>
-p {
+li {
   color: blue;
   font-size: 20px;
   width: 200px;
