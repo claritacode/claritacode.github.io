@@ -24,20 +24,13 @@
   
   <section>
     <ul>
-      <li><a href:#section1>#section1</a></li>
-  
-  <section>
-    <ul>
-      <!-- Link to every section in the page -->
+         <!-- Link to every section in the page -->
       <li><a href="#section1">#section1</a></li>
-      <li><a href="#section2">#section2</a></li>
-      <li><a href="#section3">#section3</a></li>
-      <li><a href="#section4">#section4</a></li>
-      <li><a href="#section5">#section5</a></li>
-      <li><a href="#section6">#section6</a></li>
-    </ul>
-
-  </section>
+       <li><a href="#section2">#section2</a></li>
+       <li><a href="#section3">#section2</a></li>
+          </ul>
+  
+    </section>
 
   <section id="section1">
     <h3>(#section1) Section 1</h3>
