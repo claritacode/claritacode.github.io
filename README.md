@@ -11,6 +11,9 @@
         <a href="same-directory.html" title="same dir link">
       <div> DIV Linking to a file in the same directory</div>
     </a>
-  </section>
-</body>
-</html>
+    </head>
+<body>
+  <h1>External Lnks</h1>
+  <section> We can link to a file to an external link like this:
+    <a href="https://www.naturaselection.com/es/" title="natura">
+       <div>Natura</div>
