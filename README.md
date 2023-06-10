@@ -24,7 +24,7 @@
   
   <section>
     <ul>
-      <li>#section1</a><a href:#section1>#section1</li>
+      <li><a href:#section1>#section1</a></li>
   
   <section>
     <ul>
