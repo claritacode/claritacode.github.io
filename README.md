@@ -15,11 +15,16 @@
       <li>Html</li>
       <li>CSS</li>
       <li>Javascript</li>
-        <ul>
-          <li>Chocolate</li>
-          <li>Sugar</li>
-          <li>Peanut Butter</li>
-        </ul>
+     <ul>
+      <li>Backend
+           <ul>
+          <li>Phyton </li>
+      </ul>
+          <li>Ecommerce
+           </ul>
+            <li>Tableu</li>
+           <li>PowerBI</li>
+           <li>Hubspot</li>
+             </ul>
       </li>
-      <li>Pepto Bismol</li>
-    </ul>
+           
