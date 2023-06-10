@@ -3,8 +3,20 @@
 <head>
   <meta charset="utf-8">
   <title>Internal Links</title>
+ <style>
+p {
+  color: blue;
+  font-size: 20px;
+  width: 200px;
+}
+
+h1 {
+  color: green;
+  font-size: 36px;
+  text-align: center;
+}
+</style>
 </head>
-<body>
   <h1>Internal Links</h1>
   <section>
     We can link to a file in the same directory as this HTML file like this:
