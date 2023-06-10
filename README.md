@@ -1,4 +1,4 @@
-# claritacode.github.io siiiiiiiiiiiiiiiiiiiiiiiiiii
+
 <!doctype html>
 <html>
 <head>
