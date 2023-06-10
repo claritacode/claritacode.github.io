@@ -3,8 +3,10 @@
 <head>
   <meta charset="utf-8">
   <title>Internal Links</title>
- <style>
-li {
+ 
+</head>
+  <style>
+.highlight {
   color: blue;
   font-size: 20px;
   width: 200px;
@@ -16,9 +18,8 @@ h1 {
   text-align: center;
 }
 </style>
-</head>
   <h1>Internal Links</h1>
-  <section>
+  <section class="highlight">
     We can link to a file in the same directory as this HTML file like this:
         <a href="same-directory.html" title="same dir link">
       <div> DIV Linking to a file in the same directory</div>
