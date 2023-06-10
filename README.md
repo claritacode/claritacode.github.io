@@ -2,29 +2,15 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Unordered Lists</title>
+  <title>Internal Links</title>
 </head>
 <body>
-  <h1>Unordered list</h1>
-  <div>
-    
-  La lista dei corsi che voglio fare prima che finisca l'anno:
-    <ul>
-      <li>Frontend
-         <ul>
-      <li>Html</li>
-      <li>CSS</li>
-      <li>Javascript</li>
-     <ul>
-      <li>Backend
-           <ul>
-          <li>Phyton </li>
-      </ul>
-          <li>Ecommerce
-           </ul>
-            <li>Tableu</li>
-           <li>PowerBI</li>
-           <li>Hubspot</li>
-             </ul>
-      </li>
-           
+  <h1>Internal Links</h1>
+  <section>
+    We can link to a file in the same directory as this HTML file like this:
+        <a href="same-directory.html" title="same dir link">
+      <div> DIV Linking to a file in the same directory</div>
+    </a>
+  </section>
+</body>
+</html>
