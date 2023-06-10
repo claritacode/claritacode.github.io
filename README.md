@@ -8,11 +8,13 @@
   <h1>Unordered list</h1>
   <div>
     
-    My typical dinner shopping list:
+  La lista dei corsi che voglio fare prima che finisca l'anno:
     <ul>
-      <li>Milk</li>
-      <li>Donuts</li>
-      <li>Cookies
+      <li>Frontend
+         <ul>
+      <li>Html</li>
+      <li>CSS</li>
+      <li>Javascript</li>
         <ul>
           <li>Chocolate</li>
           <li>Sugar</li>
